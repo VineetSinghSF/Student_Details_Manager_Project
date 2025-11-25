@@ -1,4 +1,4 @@
-# Student Details Manager
+# Student Details Management 
 
 A simple web-based application to manage student details and courses, built with Java Servlets, JSP, and MySQL.
 
@@ -19,8 +19,8 @@ A simple web-based application to manage student details and courses, built with
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/milind2k4/Student-Details-Java-Project.git
-    cd Student-Details-Java-Project
+    git clone https://github.com/milind2k4/Student_Details_Manager_Project.git
+    cd Student_Details_Manager_Project
     ```
 
 2.  **Run the Setup Script**:
